@@ -1,4 +1,4 @@
-<img src="img/banner.jpg">
+<img src="img/banner.jpeg">
 
 
 ## 🌐 Socials:
